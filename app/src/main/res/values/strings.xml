@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hdezguido_fras_static</string>
+    <string name="text_fragment1">Este es el Fragmento 1</string>
+    <string name="text_camp_indication">Por Favor digite un texto breve</string>
+    <string name="text_placeholder">Digite un texto aquí</string>
+    <string name="text_btn_submit">Enviar datos al Fragmento 2</string>
+    <string name="text_fragment2">Este es el Fragmento Recibido</string>
+</resources>
